@@ -8,7 +8,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import BadgeNew from './pages/BadgeNew';
-import 'bootstrap/dist/css/bootstrap.css';
+import "../node_modules/bootstrap/css/bootstrap.css"
 import './global.css';
 //const jsx = <h1>Hello, Platzi Badges!</h1>;
 
